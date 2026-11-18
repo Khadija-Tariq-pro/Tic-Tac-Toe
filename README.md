@@ -1,1 +1,4 @@
-i have cuild tic tac toe game using html,css,js as my mini project to implement or practice js concepts, now am uploading it to github so i want a small description for it. the functionalities i added is the winner, draw, new game and reset game options, and different colour for O and X symbols which are been set fixed by me (not for user to select at their own)
+A two-player Tic Tac Toe game built using HTML, CSS, and JavaScript as a mini project to practice and implement core JavaScript concepts. It features turn-based gameplay, winner detection, draw detection, New Game, and Reset Game options, along with predefined distinct colors for X and O symbols for better visual distinction.
+
+Here is the deployed version:
+https://khadija-tariq-pro.github.io/Tic-Tac-Toe/
