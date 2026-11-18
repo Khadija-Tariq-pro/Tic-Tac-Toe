@@ -1,0 +1,1 @@
+i have cuild tic tac toe game using html,css,js as my mini project to implement or practice js concepts, now am uploading it to github so i want a small description for it. the functionalities i added is the winner, draw, new game and reset game options, and different colour for O and X symbols which are been set fixed by me (not for user to select at their own)
